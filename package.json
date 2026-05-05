@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "npm run dev --prefix app-ui",
+    "build": "npm run build --prefix app-ui",
+    "preview": "npm run preview --prefix app-ui",
+    "deploy": "npm run deploy --prefix app-ui"
+  },
+  "dependencies": {
+    "mapbox-gl": "^3.21.0"
+  }
+}

@@ -1,0 +1,2271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_50",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 50",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.09598164232001,
+          37.37252270929123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_54",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 54",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.94119670278478,
+          37.41214870767858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_113",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 113",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.92400236597817,
+          37.39496238164821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_119",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 119",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8919182962633,
+          37.35529485675646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_97",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 97",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.94490423923129,
+          37.396429347809516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_51",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 51",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8614013708407,
+          37.341284956169496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_98",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 98",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.90738614064254,
+          37.25860001601923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_14",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 14",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.80337697177839,
+          37.35263342533237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_2",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 2",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8422350750426,
+          37.3650389128619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_41",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 41",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.89539490342176,
+          37.402629890212424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_118",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 118",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.78839944005469,
+          37.29185660912407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_16",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 16",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.91232016799086,
+          37.415429679876496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_37",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 37",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8705964671468,
+          37.317257423180315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_29",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 29",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.04280912718332,
+          37.3145074250988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_61",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 61",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8274807324793,
+          37.34016012427318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_43",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 43",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75086183772672,
+          37.336619469925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_74",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 74",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0295971278136,
+          37.30299176952115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_42",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 42",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.96020982320086,
+          37.28728452905674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_108",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 108",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.90548108680804,
+          37.372129406800376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_62",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 62",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.09979983635522,
+          37.305106529690796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_1",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 1",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0037397385708,
+          37.2879458254853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_80",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 80",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.07515241989684,
+          37.357287502735915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_90",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 90",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.84482345268906,
+          37.36447197303986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_18",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 18",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.80970836751145,
+          37.355148357901925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_101",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 101",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.80295649295499,
+          37.27827288880267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_87",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 87",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.81737605078168,
+          37.282369685441516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_46",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 46",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.82277222247296,
+          37.32176719435595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_36",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 36",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79327133073457,
+          37.30349523973574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_21",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 21",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02023560352195,
+          37.29919595381236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_88",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 88",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06607421501991,
+          37.32327870100909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_117",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 117",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01767863674966,
+          37.27038072437101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_9",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 9",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.81669934016276,
+          37.25110478914527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_26",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 26",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00655776228281,
+          37.409231279911126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_15",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 15",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.81750510435397,
+          37.37405440373795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_0",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 0",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.87620062053973,
+          37.25425182838785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_85",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 85",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.77257001579676,
+          37.3470773258653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_79",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 79",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01945984359119,
+          37.28743695535677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_3",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 3",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7877371513033,
+          37.264779601547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_27",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 27",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.87318761516369,
+          37.35355227096339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_47",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 47",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.07776530284681,
+          37.31487527870611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_75",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 75",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75169772516868,
+          37.36047926979871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_96",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 96",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01256774324126,
+          37.40695515187692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_34",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 34",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.98959143317931,
+          37.29551594891587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_13",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 13",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06753895481694,
+          37.26644178406169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_93",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 93",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79841461227652,
+          37.292271576766446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_105",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 105",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00717892963974,
+          37.38329200233126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_45",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 45",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06162280437727,
+          37.35666582708953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_109",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 109",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.04582111115407,
+          37.30044033033408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_55",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 55",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79345147086764,
+          37.29477613862768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_48",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 1,
+        "name": "Data Center 48",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75135751691596,
+          37.33994943866686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_104",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 104",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.96735940835808,
+          37.417502503442556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_44",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 44",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06818170573916,
+          37.2580097838222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_69",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 2,
+        "name": "Data Center 69",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.83195794974256,
+          37.27182654896496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_23",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 4,
+        "name": "Data Center 23",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06464949970659,
+          37.297255512528714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_19",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 3,
+        "name": "Data Center 19",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79840258489122,
+          37.34814986469365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_72",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 72",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.95190172092968,
+          37.28600569492515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_32",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 20,
+        "name": "Data Center 32",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.80500182793357,
+          37.38191998496286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_86",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 20,
+        "name": "Data Center 86",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.93456514079087,
+          37.383385302129426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_81",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 20,
+        "name": "Data Center 81",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01987037566609,
+          37.40392140221104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_4",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 20,
+        "name": "Data Center 4",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.95232736311016,
+          37.255065527304474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_20",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 20",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.85339985732477,
+          37.25779014522146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_82",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 82",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79912760991118,
+          37.26204574948107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_38",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 38",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7799083435908,
+          37.32800481493986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_116",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 116",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.89173771274248,
+          37.3647861341127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_84",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 84",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02501711742035,
+          37.272493014283256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_60",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 60",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.83312121997369,
+          37.34169443512034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_30",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 30",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75366682727719,
+          37.358799959175194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_65",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 65",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.99237005610907,
+          37.259847278304015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_11",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 11",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9809123192187,
+          37.276431514968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 19020.384000000002,
+        "estimated_heat_gj_per_day": 1749.6,
+        "electricity_mwh_per_day": 486,
+        "estimated_heat_btu_per_day": 1658232000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_110",
+        "estimated_heat_mwh_per_day": 486,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 110",
+        "water_liters_per_day": 72000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7609517222608,
+          37.34846064943876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_68",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 68",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.07577561853606,
+          37.37930236809373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_64",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 64",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.79244734276189,
+          37.391383139991405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_77",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 77",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0576485314461,
+          37.288198547295366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 12680.256000000001,
+        "estimated_heat_gj_per_day": 1166.4,
+        "electricity_mwh_per_day": 324,
+        "estimated_heat_btu_per_day": 1105488000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_25",
+        "estimated_heat_mwh_per_day": 324,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 25",
+        "water_liters_per_day": 48000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.97043666150908,
+          37.28561619523116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 25360.512000000002,
+        "estimated_heat_gj_per_day": 2332.8,
+        "electricity_mwh_per_day": 648,
+        "estimated_heat_btu_per_day": 2210976000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_91",
+        "estimated_heat_mwh_per_day": 648,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 91",
+        "water_liters_per_day": 96000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7555421760219,
+          37.266731038095834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "water_gallons_per_day": 6340.128000000001,
+        "estimated_heat_gj_per_day": 583.2,
+        "electricity_mwh_per_day": 162,
+        "estimated_heat_btu_per_day": 552744000,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_12",
+        "estimated_heat_mwh_per_day": 162,
+        "pue": 1.35,
+        "it_load_mw": 10,
+        "name": "Data Center 12",
+        "water_liters_per_day": 24000
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.76497542472762,
+          37.307221072669144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 20,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_0",
+        "name": "South County Facility 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5862437622869,
+          37.07856014583547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 2,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_1",
+        "name": "South County Facility 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5603678703755,
+          37.052361063813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 20,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_2",
+        "name": "South County Facility 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.59408338549324,
+          37.13356099514618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 20,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_3",
+        "name": "South County Facility 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.62077752161406,
+          37.091126669007444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 10,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_5",
+        "name": "South County Facility 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.61290198209784,
+          37.06055294290588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 20,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_6",
+        "name": "South County Facility 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.60887944757663,
+          37.01376651683938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 4,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_7",
+        "name": "South County Facility 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.59162265116477,
+          37.1184317235004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 20,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_8",
+        "name": "South County Facility 9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.57934041692995,
+          37.101730331951075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 2,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_9",
+        "name": "South County Facility 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.58304614200107,
+          37.03646360761288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 2,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_10",
+        "name": "South County Facility 11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.63168752270307,
+          37.052095206221146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 2,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_11",
+        "name": "South County Facility 12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.58786299018372,
+          37.133858930090696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 5,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_12",
+        "name": "South County Facility 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.58921805574273,
+          37.09294928321814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 3,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_13",
+        "name": "South County Facility 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.62831227180425,
+          37.01524425668758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "it_load_mw": 1,
+        "pue": 1.35,
+        "wue_l_per_kwh": 0.2,
+        "facility_id": "dc_south_14",
+        "name": "South County Facility 15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.62550834677174,
+          37.13591300130912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.95372156295937,
+          37.372818746592145
+        ]
+      },
+      "properties": {
+        "name": "Digital Realty",
+        "it_load_mw": 140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.99455495057629,
+          37.37215585796976
+        ]
+      },
+      "properties": {
+        "name": "Vantage Data Center 1",
+        "it_load_mw": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.99142445023278,
+          37.3717103035611
+        ]
+      },
+      "properties": {
+        "name": "Vantage Data Center 2",
+        "it_load_mw": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00920457677961,
+          37.334826127444614
+        ]
+      },
+      "properties": {
+        "name": "Apple Data Center",
+        "it_load_mw": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.91869084846321,
+          37.26513202599405
+        ]
+      },
+      "properties": {
+        "name": "Google Data Center",
+        "it_load_mw": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9293743109367,
+          37.26059362663092
+        ]
+      },
+      "properties": {
+        "name": "Google Data Center 2",
+        "it_load_mw": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5910306164633,
+          37.063508815499375
+        ]
+      },
+      "properties": {
+        "name": "Meta Hyerscale",
+        "it_load_mw": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8301200100226,
+          37.36675667817542
+        ]
+      },
+      "properties": {
+        "name": "Netflix Data Center",
+        "it_load_mw": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.87514958112172,
+          37.345379923177035
+        ]
+      },
+      "properties": {
+        "name": "1",
+        "it_load_mw": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.07849983048487,
+          37.39169310191632
+        ]
+      },
+      "properties": {
+        "name": "DeepMind Lab",
+        "it_load_mw": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.01885091037067,
+          37.39495342480781
+        ]
+      },
+      "properties": {
+        "name": "Swim Data Center",
+        "it_load_mw": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.95372156295937,
+          37.372818746592145
+        ]
+      },
+      "properties": {
+        "name": "Digital Realty",
+        "it_load_mw": 140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.99455495057629,
+          37.37215585796976
+        ]
+      },
+      "properties": {
+        "name": "Vantage Data Center 1",
+        "it_load_mw": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.99142445023278,
+          37.3717103035611
+        ]
+      },
+      "properties": {
+        "name": "Vantage Data Center 2",
+        "it_load_mw": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00920457677961,
+          37.334826127444614
+        ]
+      },
+      "properties": {
+        "name": "Apple Data Center",
+        "it_load_mw": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.91869084846321,
+          37.26513202599405
+        ]
+      },
+      "properties": {
+        "name": "Google Data Center",
+        "it_load_mw": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9293743109367,
+          37.26059362663092
+        ]
+      },
+      "properties": {
+        "name": "Google Data Center 2",
+        "it_load_mw": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5910306164633,
+          37.063508815499375
+        ]
+      },
+      "properties": {
+        "name": "Meta Hyerscale",
+        "it_load_mw": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8301200100226,
+          37.36675667817542
+        ]
+      },
+      "properties": {
+        "name": "Netflix Data Center",
+        "it_load_mw": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.07886600127338,
+          37.356746947140934
+        ]
+      },
+      "properties": {
+        "name": "Nincampoop DC",
+        "it_load_mw": 3
+      }
+    }
+  ]
+}
